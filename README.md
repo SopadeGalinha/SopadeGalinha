@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working as a full stack developer
-🌱 learning C, C++, Typescript, NodeJs, Angular
-📫 Contact me on jhsocial@icloud.c
+- 🔭 I’m currently working as a full stack developer
+- 🌱 learning C, C++, Typescript, NodeJs, Angular
+
