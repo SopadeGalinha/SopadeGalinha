@@ -1,8 +1,9 @@
-### <h1> Hi, I'm Jhonata!
-  
-- 🔭 I’m currently working on NodeJs, Angular, Uipath, and SSMS.
-- 🌱 I’m currently learning C, C#, Unix, Linux. 
-  
+### <h1> Hey, I'm Jhonata! 👋
+
+ ### About Me
+ I am a software developer with experience in NodeJs, Angular, Uipath, and SSMS. Currently, I am focused on learning C, C#, Unix, and Linux.
+
+Feel free to reach out to me if you have any questions or if you want to collaborate on a project! 
   
 <div align="center">
   <a href="https://github.com/thallyshl">
