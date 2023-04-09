@@ -1,4 +1,4 @@
-### <h1> Hey, I'm Jhonata! 👋
+### <h1> Hey, Welcome to my Git! 👋
 
  ### About Me
  I am a software developer with experience in NodeJs, Angular, Uipath, and SSMS. Currently, I am focused on learning C, C#, Unix, and Linux.
@@ -22,9 +22,8 @@ Feel free to reach out to me if you have any questions or if you want to collabo
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<!--
-**thallyshl/thallyshl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ <!--
 Here are some ideas to get you started:
 
 
