@@ -1,4 +1,4 @@
-### <h1> Hey, Welcome to my Git! 👋
+### <h1> Welcome! 👋
 
  ### About Me
  I am a software developer with experience in NodeJs, Angular, Uipath, and SSMS. Currently, I am focused on learning C, C#, Unix, and Linux.
