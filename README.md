@@ -1,4 +1,4 @@
-### <h1> Welcome!
+### <h1> Hi, Welcome!
 
  ### About Me
  I am a software developer with experience in NodeJs, Angular, Uipath, Unity3D and SSMS. Currently, I am focused on learning C, C#, Unix, and Linux.
