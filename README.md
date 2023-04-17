@@ -20,10 +20,7 @@ Feel free to reach out to me if you have any questions or if you want to collabo
   <a href="https://instagram.com/expereai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonata-gon%C3%A7alves-899160248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
  
-<div align="center">
-  <img src="https://github.com/anuraghazra/github-readme-stats/blob/master/generated/overview.svg" alt="GitHub Stats" width="500" height="165">
-  <img src="./git-commit.svg" alt="git-commit" width="50" height="50">
-</div>
+ <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg?color=blue" alt="Snake animation">
 
 
  <!--
