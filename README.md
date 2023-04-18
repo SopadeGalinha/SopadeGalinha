@@ -1,7 +1,7 @@
 ### <h1> Hi, Welcome!
 
  ### About Me
- I am a software developer with experience in NodeJs, Angular, Uipath, Unity3D and SSMS. Currently, I am focused on learning C, C#, Unix, and Linux.
+ I am a software developer with experience in C, NodeJs, Angular, Uipath, Unity3D and SSMS. Currently, I am focused on learning C++, C#, Unix, and Python.
 
 42Cadet's are welcome to reach me on slack. @jhogonca
   
