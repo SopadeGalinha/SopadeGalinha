@@ -3,7 +3,7 @@
  ### About Me
  I am a software developer with experience in NodeJs, Angular, Uipath, Unity3D and SSMS. Currently, I am focused on learning C, C#, Unix, and Linux.
 
-Feel free to reach out to me if you have any questions or if you want to collaborate on a project! 
+42Cadet's are welcome to reach me on slack. @jhogonca
   
 <div align="center">
   <a href="https://github.com/SopadeGalinha">
