@@ -1,7 +1,7 @@
 ### <h1> Hi, Welcome!
 
  ### About Me
- I am a software developer with experience in C, C#, Uipath, Unity3D, Unix and SQL. Currently, I am focused on learning C++, JavaScript and Python.
+ I am a software developer with experience in C, C#, Uipath, Unity3D, Unix and SQL. Currently, I am focused on learning C++ and JavaScript.
 
 42Cadet's are welcome to reach me on slack. @jhogonca
   
