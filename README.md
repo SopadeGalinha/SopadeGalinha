@@ -5,13 +5,10 @@
 
 <p align="center">
   <img src="https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d" alt="ChillMario"/>
-  <div style="width: 100%; height: 1px; background-color: #ccc;"></div>
+  <hr style="width: 80%; margin-top: 20px; margin-bottom: 20px; border-color: #ccc;">
 </p>
 
 <p align="center">
-  <!-- Newlines added below the image -->
-  <br><br>
-
   💻 I'm a **full-stack software engineer** at [Nós SGPS]([https://www.hingehealth.com/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/)) <br>
   🌐 Proud <em>cadet</em> (Software Engineering Student) of the 42Network at Porto Campus.
 </p>
