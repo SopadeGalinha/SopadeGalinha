@@ -6,11 +6,12 @@
 <p align="center">
   <img src="https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d" alt="ChillMario"/>
 </p>
+<br>
 
 <p align="center">
   
-💻 I'm a **full-stack software engineer** at [Nós]([https://www.hingehealth.com/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/))
-and a proud _cadet_ (software engineering student) of the 42Network 🌐
+💻 I'm a **full-stack software engineer** at [Nós SGPS]([https://www.hingehealth.com/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/))
+🌐 Proud <em>cadet</em> (Software Engineering Student) of the 42Network at Porto Campus.
 </p>
 
 <p align="center">
