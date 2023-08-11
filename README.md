@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-  🚀 Welcome to my corner of the coding universe! I'm Jhonata, but you can also call me Sopa.
- Cuurrently I'm a Data Engineer and RPA Developer at Nós SGPS, where I spend my days shaping data and automating processes.
+  <img src="https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d" alt="ChillMario"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d" alt="ChillMario"/>
+  🚀 Welcome to my corner of the coding universe! I'm Jhonata, but you can also call me Sopa.
+ Cuurrently I'm a Data Engineer and RPA Developer at Nós SGPS, where I spend my days shaping data and automating processes.
 </p>
 
 <p align="center">
@@ -36,4 +36,10 @@
   </p>
 
   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg?color=blue" alt="Snake animation">
+  
+  <hr> <!-- This adds a line underneath -->
+  
+  <p align="center">
+    Made with ❤️ by Jhonata Gonçalves
+  </p>
 </div>
