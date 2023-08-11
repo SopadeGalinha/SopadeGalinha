@@ -1,4 +1,6 @@
-# Halo there, world traveler!
+<h1 align="center">
+# <b>Halo there, world traveler</b>!
+</h1>
 
 ![ChillMario](https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d)
 
