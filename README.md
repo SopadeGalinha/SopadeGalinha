@@ -1,6 +1,6 @@
-<h1 align="center">
-  <b>Hello there, World Traveler!</b>
-</h1>
+<div align="center">
+  <h1><b>Hello there, World Traveler!</b></h1>
+</div>
 
 <p align="center">
   🚀 Welcome to my corner of the coding universe! I'm Jhonata, but you can also call me Sopa.
