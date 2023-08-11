@@ -3,10 +3,12 @@
   <h2>🚀 Welcome to my corner of the coding universe!</h2>  
 </div>
 
+<b>
 <p align="center">
   <img src="https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d" alt="ChillMario"/>
   <div style="width: 100%; height: 1px; background-color: #ccc;"></div>
 </p>
+</b>
 
 <p align="center">
   
