@@ -3,18 +3,19 @@
   <h2>🚀 Welcome to my corner of the coding universe!</h2>  
 </div>
 
-
-<p<b>  align="center">
+<p align="center">
   <img src="https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d" alt="ChillMario"/>
   <div style="width: 100%; height: 1px; background-color: #ccc;"></div>
 </p>
-</b>
 
 <p align="center">
-  
-💻 I'm a **full-stack software engineer** at [Nós SGPS]([https://www.hingehealth.com/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/)) <br>
-🌐 Proud <em>cadet</em> (Software Engineering Student) of the 42Network at Porto Campus.
+  <!-- Newlines added below the image -->
+  <br><br>
+
+  💻 I'm a **full-stack software engineer** at [Nós SGPS]([https://www.hingehealth.com/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/)) <br>
+  🌐 Proud <em>cadet</em> (Software Engineering Student) of the 42Network at Porto Campus.
 </p>
+
 
 <p align="center">
   I'm a seasoned software developer with proficiency in C, C#, UiPath, Unity 3D, Unix, and SQL. Currently, I'm on a journey of exploration, delving into the realms of C++ and JavaScript.
