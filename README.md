@@ -1,5 +1,9 @@
+Halo there, world traveler!
 
 ![ChillMario](https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d)
+
+🚀 Welcome to my corner of the coding universe! I'm Jhonata, AKA Sopa, a passionate Data Engineer and RPA Developer at Nós SGPS. When I'm not shaping data and automating processes, I'm diving into the exciting world of Unity 3D.
+
 
  
  
