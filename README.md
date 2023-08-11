@@ -6,7 +6,7 @@
   <img src="https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d" alt="ChillMario"/>
 </p>
 
-<p align="left">
+<p align="center">
   🚀 Welcome to my corner of the coding universe! I'm Jhonata, but you can also call me Sopa.
  Cuurrently I'm a Data Engineer and RPA Developer at Nós SGPS, where I spend my days shaping data and automating processes.
 </p>
