@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>Hello there, World Traveler!
+  <h1><b>Hello there, World Traveler! <br>
 🚀 Welcome to my corner of the coding universe! </b></h1>
 </div>
 
