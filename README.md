@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  💻 I'm a **full-stack software engineer** at [Nós SGPS]([https://www.hingehealth.com/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/)) <br>
+  💻 I'm a **full-stack software engineer** at 
+  [Nós SGPS](https://www.linkedin.com/company/nos-sgps/mycompany/verification/) <br>
   🌐 Proud <em>cadet</em> (Software Engineering Student) of the 42Network at Porto Campus.
 </p>
 
