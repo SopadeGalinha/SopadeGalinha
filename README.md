@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  🚀 Welcome to my corner of the coding universe! I'm Jhonata, but you can call me Sopa. As a passionate Data Engineer and RPA Developer at Nós SGPS, I spend my days shaping data and automating processes. When I'm not immersed in code, you'll find me diving into the captivating world of Unity 3D.
+  🚀 Welcome to my corner of the coding universe! I'm Jhonata, but you can also call me Sopa. Cuurrently I'm a Data Engineer and RPA Developer at Nós SGPS,
+ where I spend my days shaping data and automating processes.
 </p>
 
 <p align="center">
