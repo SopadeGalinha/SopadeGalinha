@@ -10,7 +10,7 @@
   <hr style="width: 80%; margin-top: 20px; margin-bottom: 20px; border-color: #ccc;">
 </p>
 
-  💻 I'm a full-stack software engineer at [Nós](linkedin.com/company/nos-sgps/)
+  💻 I'm a full-stack software engineer at [Nós]([linkedin.com/company/nos-sgps/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/))
   🌐 Proud _cadet_ (Software Engineering Student) of the 42Network at [Porto Campus](https://www.42porto.com/).
 </p>
 
