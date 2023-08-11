@@ -1,5 +1,6 @@
 <div align="center">
-  <h1><b>Hello there, World Traveler!</b></h1>
+  <h1><b>Hello there, World Traveler!</b></h1> <br>
+🚀 Welcome to my corner of the coding universe! 
 </div>
 
 <p align="center">
@@ -7,8 +8,9 @@
 </p>
 
 <p align="center">
-  🚀 Welcome to my corner of the coding universe! I'm Jhonata, but you can also call me Sopa.
- Cuurrently I'm a Data Engineer and RPA Developer at Nós SGPS, where I spend my days shaping data and automating processes.
+  
+💻 I'm a **full-stack software engineer** at [Nós]([https://www.hingehealth.com/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/))
+and a proud _cadet_ (software engineering student) of the 42Network 🌐
 </p>
 
 <p align="center">
