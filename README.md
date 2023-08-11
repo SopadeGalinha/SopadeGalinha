@@ -1,6 +1,7 @@
 <div align="center">
   <h1><b>Hello there, World Traveler!</b></h1> 
-  <h2>🚀 Welcome to my corner of the coding universe! </h2>
+  <h2>🚀 Welcome to my corner of the coding universe! </h2><br>
+</div>
 
 
 <p align="center">
@@ -8,7 +9,6 @@
 </p>
   <hr style="width: 80%; margin-top: 20px; margin-bottom: 20px; border-color: #ccc;">
 </p>
-</div>
 
 <p align="center">
   💻 <b>
