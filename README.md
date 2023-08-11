@@ -10,7 +10,7 @@
   <hr style="width: 80%; margin-top: 20px; margin-bottom: 20px; border-color: #ccc;">
 </p>
 
-  💻 I'm a full-stack software engineer at [Hinge Health] (https://www.hingehealth.com/)
+  💻 I'm a full-stack software engineer at [Hinge Health](https://www.hingehealth.com/)
   <br>
   🌐 Proud cadet (Software Engineering Student) of the 42Network at [Porto Campus](https://www.42porto.com/).
 </p>
