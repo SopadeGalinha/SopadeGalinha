@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>Hello there, World Traveler!</b></h1> <br>
-🚀 Welcome to my corner of the coding universe! 
+🚀 <h2> Welcome to my corner of the coding universe! </h2>  
 </div>
 
 <p align="center">
