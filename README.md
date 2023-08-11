@@ -1,6 +1,8 @@
-### <h1> Hi, Welcome!
 
- ### About Me
+![ChillMario](https://github.com/SopadeGalinha/SopadeGalinha/assets/75684404/23754dd9-acba-44f5-a80e-3274e59e3b6d)
+
+ 
+ 
  I am a software developer with experience in C, C#, Uipath, Unity3D, Unix and SQL. Currently, I am focused on learning C++ and JavaScript.
 
 42Cadet's are welcome to reach me on slack. @jhogonca
