@@ -26,14 +26,16 @@
 
 ## Projects
   ### 42Piscine
- - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
-
-
-
-  - C00          -     C01
-  - C02          -     C03
-  - C04          -     C05
-  - C06
+ - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)
+ - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
+ - [C00](https://github.com/SopadeGalinha/42Piscine/tree/main/C00)
+ - [C01](https://github.com/SopadeGalinha/42Piscine/tree/main/C01)
+ - [C02](https://github.com/SopadeGalinha/42Piscine/tree/main/C02)
+ - [C03](https://github.com/SopadeGalinha/42Piscine/tree/main/C03)
+ - [C04](https://github.com/SopadeGalinha/42Piscine/tree/main/C04)
+ - [C05](https://github.com/SopadeGalinha/42Piscine/tree/main/C05)
+ - [C06](https://github.com/SopadeGalinha/42Piscine/tree/main/C06)
+ - [BSQ](https://github.com/SopadeGalinha/42Piscine/tree/main/BSQ)
     
   ### 42Core
 - Libft 
