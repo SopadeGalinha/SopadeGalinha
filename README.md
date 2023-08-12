@@ -63,4 +63,6 @@
 </details>
 
 <div> 
- <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg?color=blue" alt="Snake animation">
+ | [![SopadeGalinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SopadeGalinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/SopadeGalinha?tab=repositories) | [![SopadeGalinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SopadeGalinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/SopadeGalinha?tab=repositories) |
+|:-:|:-:|
+
