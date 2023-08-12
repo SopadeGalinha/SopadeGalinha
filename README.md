@@ -25,25 +25,35 @@
 💡 I'm also a skilled in C#, Unity3D, and Figma.
 
 ## Projects
-  ### 42Piscine
- - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)
- - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
- - [C00](https://github.com/SopadeGalinha/42Piscine/tree/main/C00)
- - [C01](https://github.com/SopadeGalinha/42Piscine/tree/main/C01)
- - [C02](https://github.com/SopadeGalinha/42Piscine/tree/main/C02)
- - [C03](https://github.com/SopadeGalinha/42Piscine/tree/main/C03)
- - [C04](https://github.com/SopadeGalinha/42Piscine/tree/main/C04)
- - [C05](https://github.com/SopadeGalinha/42Piscine/tree/main/C05)
- - [C06](https://github.com/SopadeGalinha/42Piscine/tree/main/C06)
-  #### 42Piscine - Group Projects
- - [BSQ](https://github.com/SopadeGalinha/42Piscine/tree/main/BSQ)
- - [Rush00](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush00)
- - [Rush01](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush01)
-    
-  ### 42Core
+
+<details>
+<summary>42Piscine</summary>
+
+### 42Piscine Projects
+- [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)
+- [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
+- [C00](https://github.com/SopadeGalinha/42Piscine/tree/main/C00)
+- [C01](https://github.com/SopadeGalinha/42Piscine/tree/main/C01)
+- [C02](https://github.com/SopadeGalinha/42Piscine/tree/main/C02)
+- [C03](https://github.com/SopadeGalinha/42Piscine/tree/main/C03)
+- [C04](https://github.com/SopadeGalinha/42Piscine/tree/main/C04)
+- [C05](https://github.com/SopadeGalinha/42Piscine/tree/main/C05)
+- [C06](https://github.com/SopadeGalinha/42Piscine/tree/main/C06)
+
+### 42Piscine Group Projects
+- [BSQ](https://github.com/SopadeGalinha/42Piscine/tree/main/BSQ)
+- [Rush00](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush00)
+- [Rush01](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush01)
+</details>
+
+<details>
+<summary>42Core</summary>
+
+### 42Core Projects
 - [libft](https://github.com/SopadeGalinha/42-Libft)
 - [get_next_line](https://github.com/SopadeGalinha/42-get_next_line)
 - [ft_printf](https://github.com/SopadeGalinha/42-ft_printf)
 - [minitalk](https://github.com/SopadeGalinha/42-Minitalk)
 - [push_Swap](https://github.com/SopadeGalinha/42-push_Swap)
 - [FdF](https://github.com/SopadeGalinha/42-FdF)
+</details>
