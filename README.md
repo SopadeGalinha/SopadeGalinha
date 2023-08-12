@@ -67,6 +67,6 @@
 
 <p align="right">
 	<img alt="sopadegalinha's visitors" src="https://komarev.com/ghpvc/?username=sopadegalinha&color=8c36db&style=flat&label=visitors" />
-	<img alt="sopadegalinha's followers" src="https://img.shields.io/github/followers/sopadegalinha?color=blueviolet" />
-	<img alt="sopadegalinha's stars" src="https://img.shields.io/github/stars/sopadegalinha?color=blueviolet" />
+	<img alt="sopadegalinha's followers" src="https://img.shields.io/github/followers/sopadegalinha?color=midnight-purple" />
+	<img alt="sopadegalinha's stars" src="https://img.shields.io/github/stars/sopadegalinha?color=midnight-purple" />
 </p>
