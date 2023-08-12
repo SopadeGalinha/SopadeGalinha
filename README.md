@@ -11,18 +11,16 @@
 
 ## About Me
 
-- 💻 I'm a full-stack software engineer at [Nós](https://www.linkedin.com/company/nos-sgps/).
+- 🕹️ Game Developer.
+- 💻 A full-stack software engineer at [Nós](https://www.linkedin.com/company/nos-sgps/).
 - 🌐 Proud _cadet_ of the [42Porto](https://www.42porto.com/).
 
 ### Likes
-- 🕹️ Game Developer.
 - 🌎 languages & travelling.
-- 🎥 Cinema lover.
+- 🎥 Cinema.
 - 🏃🏻Running.
-  
+- 🥊Kickboxing & Muay Thai
   
 🛠️ I work with T-SQL, Jira, Confluence, Uipath, VB, and C Programming, building effective solutions.
-
 💡 I'm also a skilled in C#, Unity3D, and Figma.
-
 
