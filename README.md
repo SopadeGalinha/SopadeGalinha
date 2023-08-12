@@ -29,7 +29,7 @@
 <details>
 <summary style="font-size: 2.5em;"> <b>42Piscine</b></summary>
 
-  <br>
+- ### Solo
   
 - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)
 - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
@@ -40,6 +40,11 @@
 - [C04](https://github.com/SopadeGalinha/42Piscine/tree/main/C04)
 - [C05](https://github.com/SopadeGalinha/42Piscine/tree/main/C05)
 - [C06](https://github.com/SopadeGalinha/42Piscine/tree/main/C06)
+
+ ### Group Projects
+- [BSQ](https://github.com/SopadeGalinha/42Piscine/tree/main/BSQ)
+- [Rush00](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush00)
+- [Rush01](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush01)
 
 </details>
 
