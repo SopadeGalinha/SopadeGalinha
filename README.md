@@ -25,10 +25,6 @@
 💡 I'm also a skilled in C#, Unity3D, and Figma.
 
 ## Projects
-
-Your updated code already looks great! However, I can suggest a small improvement to enhance the visual consistency. You can adjust the indentation for each list item to make it visually aligned with the text in the header. Here's the improved version:
-
-```markdown
 <details>
 <summary style="font-size: 2.5em;"> <b>42Piscine</b></summary>
 
@@ -49,7 +45,7 @@ Your updated code already looks great! However, I can suggest a small improvemen
 - [Rush01](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush01)
 
 </details>
-```
+
 
 <details>
 <summary>42Core</summary>
