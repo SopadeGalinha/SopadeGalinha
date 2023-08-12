@@ -11,11 +11,18 @@
 
 ## About Me
 
-- 💻 I'm a full-stack software engineer at [Nós](https://www.linkedin.com/company/nos-sgps/)
-- 🌐 Proud _cadet_ (Software Engineering Student) of the 42Network at [Porto Campus](https://www.42porto.com/).
-- 🕹️ Outside the world of coding, I'm also a Game Developer Enthusiast.
+- 💻 I'm a full-stack software engineer at [Nós](https://www.linkedin.com/company/nos-sgps/).
+- 🌐 Proud _cadet_ of the [42Porto](https://www.42porto.com/).
 
+# Likes
+- 🕹️ Game Developer.
+- 🌎 languages & travelling.
+- 🎥 Cinema lover.
+- 🏃🏻Running.
+  
+  
 🛠️ I work with T-SQL, Jira, Confluence, Uipath, VB, and C Programming, building effective solutions.
 
-💡 I'm also skilled in C#, Unity3D, and Figma.
+💡 I'm also a skilled in C#, Unity3D, and Figma.
+
 
