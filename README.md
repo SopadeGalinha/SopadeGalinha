@@ -31,7 +31,7 @@
 <details>
 <summary style="font-size: 2.5em;"> <b>42Piscine</b></summary>
 
-### Solo
+### Individual Projects
 - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)
 - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
 - [C00](https://github.com/SopadeGalinha/42Piscine/tree/main/C00)
@@ -49,10 +49,15 @@
 
 </details>
 
-### 42Core Projects
+<details>
+<summary style="font-size: 2.5em;"> <b>42Core</b></summary>
+  
+### Individual Projects
+
 - [libft](https://github.com/SopadeGalinha/42-Libft)
 - [get_next_line](https://github.com/SopadeGalinha/42-get_next_line)
 - [ft_printf](https://github.com/SopadeGalinha/42-ft_printf)
 - [minitalk](https://github.com/SopadeGalinha/42-Minitalk)
 - [push_Swap](https://github.com/SopadeGalinha/42-push_Swap)
 - [FdF](https://github.com/SopadeGalinha/42-FdF)
+</details>
