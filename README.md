@@ -71,10 +71,3 @@
 </p>
 
 </div>
-
-
-<p align="center">
-    <img alt="sopadegalinha's visitors" src="https://komarev.com/ghpvc/?username=sopadegalinha&color=8c36db&style=flat&label=visitors" />
-</p>
-
-</div>
