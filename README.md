@@ -67,7 +67,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sopadegalinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl" />
   </a>
   <a href="https://github.com/sopadegalinha?tab=repositories">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&hide_border=true&theme=nightowl" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&hide_border=true&theme=nightowl" />
   </a>
 </div>
 
