@@ -61,3 +61,6 @@
 - [push_Swap](https://github.com/SopadeGalinha/42-push_Swap)
 - [FdF](https://github.com/SopadeGalinha/42-FdF)
 </details>
+
+<div> 
+ <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg?color=blue" alt="Snake animation">
