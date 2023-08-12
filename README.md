@@ -62,14 +62,6 @@
 - [FdF](https://github.com/SopadeGalinha/42-FdF)
 </details>
 
-<div align="center">
-  <div style="display: flex; flex-direction: row;">
-    <a href="https://github.com/sopadegalinha" style="flex: 1;">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sopadegalinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl" />
-    </a>
-    <a href="https://github.com/sopadegalinha?tab=repositories" style="flex: 1;">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&hide_border=true&theme=nightowl" />
-    </a>
-  </div>
-</div>
+| [![sopadegalinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopadegalinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)](https://github.com/sopadegalinha?tab=repositories) | [![sopadegalinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&hide_border=true&theme=nightowl)](https://github.com/sopadegalinha?tab=repositories) |
+|:-:|:-:|
 
