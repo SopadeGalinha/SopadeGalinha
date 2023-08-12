@@ -27,13 +27,11 @@
 ## Projects
   ### 42Piscine
   - Shell00      -     Shell01
-  - C00
-  - C01
-  - C02
+
+  - C00          -     C04
+  - C01          -     C05
+  - C02          -     C06
   - C03
-  - C04
-  - C05
-  - C06
     
   ### 42Core
 - Libft 
