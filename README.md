@@ -27,7 +27,7 @@
 ## Projects
 
 <details>
-<summary>42Piscine</summary>
+### <summary>42Piscine</summary>
 
 ### 42Piscine Projects
 - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)
