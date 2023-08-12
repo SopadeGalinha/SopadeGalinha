@@ -41,8 +41,7 @@
  - [Rush01](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush01)
     
   ### 42Core
-- Libft 
-- get_next_line
+- [libft](https://github.com/SopadeGalinha/42-Libft)
 - [get_next_line](https://github.com/SopadeGalinha/42-get_next_line)
 - [ft_printf](https://github.com/SopadeGalinha/42-ft_printf)
 - [minitalk](https://github.com/SopadeGalinha/42-Minitalk)
