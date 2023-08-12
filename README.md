@@ -21,6 +21,6 @@
 - 🏃🏻Running.
 - 🥊Kickboxing & Muay Thai
   
-🛠️ I work with T-SQL, Jira, Confluence, Uipath, VB, and C Programming, building effective solutions.
+🛠️ I work with T-SQL, Jira, Confluence, Uipath, VB, and C Programming, building effective solutions. <br>
 💡 I'm also a skilled in C#, Unity3D, and Figma.
 
