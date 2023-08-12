@@ -9,8 +9,7 @@
 </p>
   <hr style="width: 80%; margin-top: 20px; margin-bottom: 20px; border-color: #ccc;">
 </p>
-
-
+<br>
 ##About Me
 
   💻 I'm a full-stack software engineer at [Nós]([linkedin.com/company/nos-sgps/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/))
