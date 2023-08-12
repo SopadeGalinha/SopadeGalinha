@@ -18,4 +18,4 @@
 
 🛠️ I work with T-SQL, Jira, Confluence, Uipath, VB, and C Programming, building effective solutions.
 
-💡 I'm skilled in C#, Unity3D, and Figma.
+💡 I'm also skilled in C#, Unity3D, and Figma.
