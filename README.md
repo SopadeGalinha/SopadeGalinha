@@ -26,8 +26,7 @@
 
 ## Projects
   ### 42Piscine
-  - Shell00
-  - Shell01
+  - Shell00    - Shell01
   - C00
   - C01
   - C02
