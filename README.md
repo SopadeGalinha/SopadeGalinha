@@ -46,10 +46,6 @@
 
 </details>
 
-
-<details>
-<summary>42Core</summary>
-
 ### 42Core Projects
 - [libft](https://github.com/SopadeGalinha/42-Libft)
 - [get_next_line](https://github.com/SopadeGalinha/42-get_next_line)
@@ -57,4 +53,3 @@
 - [minitalk](https://github.com/SopadeGalinha/42-Minitalk)
 - [push_Swap](https://github.com/SopadeGalinha/42-push_Swap)
 - [FdF](https://github.com/SopadeGalinha/42-FdF)
-</details>
