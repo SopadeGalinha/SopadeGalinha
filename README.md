@@ -35,6 +35,7 @@
  - [C04](https://github.com/SopadeGalinha/42Piscine/tree/main/C04)
  - [C05](https://github.com/SopadeGalinha/42Piscine/tree/main/C05)
  - [C06](https://github.com/SopadeGalinha/42Piscine/tree/main/C06)
+  #### 42Piscine - Group projects
  - [BSQ](https://github.com/SopadeGalinha/42Piscine/tree/main/BSQ)
     
   ### 42Core
