@@ -12,6 +12,7 @@
 
   💻 I'm a full-stack software engineer at [Nós]([linkedin.com/company/nos-sgps/](https://www.linkedin.com/company/nos-sgps/mycompany/verification/))
   <br> 🌐 Proud _cadet_ (Software Engineering Student) of the 42Network at [Porto Campus](https://www.42porto.com/).
+  <br> 🕹️ Outside the world of coding, I'm also a Game Developer Enthusiast
 </p>
 ## About Me 🚀
 
