@@ -26,10 +26,13 @@
 
 ## Projects
 
+Your updated code already looks great! However, I can suggest a small improvement to enhance the visual consistency. You can adjust the indentation for each list item to make it visually aligned with the text in the header. Here's the improved version:
+
+```markdown
 <details>
 <summary style="font-size: 2.5em;"> <b>42Piscine</b></summary>
 
-### Solo  
+### Solo
 - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)
 - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
 - [C00](https://github.com/SopadeGalinha/42Piscine/tree/main/C00)
@@ -40,13 +43,13 @@
 - [C05](https://github.com/SopadeGalinha/42Piscine/tree/main/C05)
 - [C06](https://github.com/SopadeGalinha/42Piscine/tree/main/C06)
 
- ### Group Projects
+### Group Projects
 - [BSQ](https://github.com/SopadeGalinha/42Piscine/tree/main/BSQ)
 - [Rush00](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush00)
 - [Rush01](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush01)
 
 </details>
-
+```
 
 <details>
 <summary>42Core</summary>
