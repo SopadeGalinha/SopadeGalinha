@@ -62,11 +62,5 @@
 - [FdF](https://github.com/SopadeGalinha/42-FdF)
 </details>
 
-| [![sopadegalinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopadegalinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)](https://github.com/sopadegalinha?tab=repositories) | [![sopadegalinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&hide_border=true&theme=nightowl)](https://github.com/sopadegalinha?tab=repositories) |
+| [![sopadegalinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopadegalinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)](https://github.com/sopadegalinha?tab=repositories) <p align="right"> <img alt="sopadegalinha's visitors" src="https://komarev.com/ghpvc/?username=sopadegalinha&color=8c36db&style=flat&label=visitors" /> <img alt="sopadegalinha's followers" src="https://img.shields.io/github/followers/sopadegalinha?color=blueviolet" /> <img alt="sopadegalinha's stars" src="https://img.shields.io/github/stars/sopadegalinha?color=blueviolet" /> </p> | [![sopadegalinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&hide_border=true&theme=nightowl)](https://github.com/sopadegalinha?tab=repositories) |
 |:-:|:-:|
-
-<p align="right">
-	<img alt="sopadegalinha's visitors" src="https://komarev.com/ghpvc/?username=sopadegalinha&color=8c36db&style=flat&label=visitors" />
-	<img alt="sopadegalinha's followers" src="https://img.shields.io/github/followers/sopadegalinha?color=blueviolet" />
-	<img alt="sopadegalinha's stars" src="https://img.shields.io/github/stars/sopadegalinha?color=blueviolet" />
-</p>
