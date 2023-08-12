@@ -24,3 +24,22 @@
 🛠️ I work with T-SQL, Jira, Confluence, Uipath, VB, and C Programming, building effective solutions. <br>
 💡 I'm also a skilled in C#, Unity3D, and Figma.
 
+## Projects
+  ### 42Piscine
+  - Shell00
+  - Shell01
+  - C00
+  - C01
+  - C02
+  - C03
+  - C04
+  - C05
+  - C06
+    
+  ### 42Core
+- Libft 
+- get_next_line
+- ft_printf
+- minitalk
+- push_Swap
+- FdF
