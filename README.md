@@ -35,8 +35,10 @@
  - [C04](https://github.com/SopadeGalinha/42Piscine/tree/main/C04)
  - [C05](https://github.com/SopadeGalinha/42Piscine/tree/main/C05)
  - [C06](https://github.com/SopadeGalinha/42Piscine/tree/main/C06)
-  #### 42Piscine - Group projects
+  #### 42Piscine - Group Projects
  - [BSQ](https://github.com/SopadeGalinha/42Piscine/tree/main/BSQ)
+ - [Rush00](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush00)
+ - [Rush01](https://github.com/SopadeGalinha/42Piscine/tree/main/Rush01)
     
   ### 42Core
 - Libft 
