@@ -49,7 +49,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary style="font-size: 2.5em;"> <b>42Core</b></summary>
   
 ### Individual Projects
