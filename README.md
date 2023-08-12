@@ -26,7 +26,7 @@
 
 ## Projects
   ### 42Piscine
-  - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)       - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
+  - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00);       - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
 
   - C00          -     C01
   - C02          -     C03
