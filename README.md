@@ -14,7 +14,7 @@
 - 💻 I'm a full-stack software engineer at [Nós](https://www.linkedin.com/company/nos-sgps/).
 - 🌐 Proud _cadet_ of the [42Porto](https://www.42porto.com/).
 
-# Likes
+### Likes
 - 🕹️ Game Developer.
 - 🌎 languages & travelling.
 - 🎥 Cinema lover.
