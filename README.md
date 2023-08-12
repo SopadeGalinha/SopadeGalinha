@@ -63,11 +63,13 @@
 </details>
 
 <div align="center">
-  <a href="https://github.com/sopadegalinha">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sopadegalinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl" />
-  </a>
-  <a href="https://github.com/sopadegalinha?tab=repositories">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&hide_border=true&theme=nightowl" />
-  </a>
+  <div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/sopadegalinha" style="flex: 1;">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sopadegalinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl" />
+    </a>
+    <a href="https://github.com/sopadegalinha?tab=repositories" style="flex: 1;">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&hide_border=true&theme=nightowl" />
+    </a>
+  </div>
 </div>
 
