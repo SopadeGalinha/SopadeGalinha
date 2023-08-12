@@ -43,7 +43,8 @@
   ### 42Core
 - Libft 
 - get_next_line
-- ft_printf
-- minitalk
+- [get_next_line](https://github.com/SopadeGalinha/42-get_next_line)
+- [ft_printf](https://github.com/SopadeGalinha/42-ft_printf)
+- [minitalk](https://github.com/SopadeGalinha/42-Minitalk)
 - push_Swap
 - FdF
