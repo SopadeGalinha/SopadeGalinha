@@ -28,7 +28,7 @@
 
 <details>
 <summary style="font-size: 2.5em;"> <b>42Piscine</b></summary>
-
+<br>
 - [Shell00](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell00)
 - [Shell01](https://github.com/SopadeGalinha/42Piscine/tree/main/Shell01)
 - [C00](https://github.com/SopadeGalinha/42Piscine/tree/main/C00)
