@@ -66,7 +66,7 @@
 |:-:|:-:|
 
 <p 
-	align="right">
+	align="left">
 	<img alt="sopadegalinha's visitors" src="https://komarev.com/ghpvc/?username=sopadegalinha&color=8c36db&style=flat&label=visitors" />
 </p>
 
