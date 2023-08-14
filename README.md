@@ -54,12 +54,13 @@
   
 ### Individual Projects
 
-- [libft](https://github.com/SopadeGalinha/42-Libft) -> A C library - <font color="green">125/100</font>
-- [get_next_line](https://github.com/SopadeGalinha/42-get_next_line) -> Reading content line by line from a file, stdin, or even a network connection. <font color="green">125/100</font>
-- [ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf - <font color="green">100/100</font>
-- [minitalk](https://github.com/SopadeGalinha/42-Minitalk) -> A small data exchange program using UNIX signals <font color="green">125/100</font>
-- [push_Swap](https://github.com/SopadeGalinha/42-push_Swap) -> Sorting data on a stack, with a limited set of instructions <font color="green">97/100</font>
+- [libft](https://github.com/SopadeGalinha/42-Libft) -> A C library - :green_circle: 125/100
+- [get_next_line](https://github.com/SopadeGalinha/42-get_next_line) -> Reading content line by line from a file, stdin, or even a network connection. :green_circle: 125/100
+- [ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf - :green_circle: 100/100
+- [minitalk](https://github.com/SopadeGalinha/42-Minitalk) -> A small data exchange program using UNIX signals :green_circle: 125/100
+- [push_Swap](https://github.com/SopadeGalinha/42-push_Swap) -> Sorting data on a stack, with a limited set of instructions :green_circle: 97/100
 - [FdF](https://github.com/SopadeGalinha/42-FdF) -> A wireframe viewer for 3D maps - in Progress..
+
 
 </details>
 
