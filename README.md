@@ -54,11 +54,11 @@
   
 ### Individual Projects
 
-- [libft](https://github.com/SopadeGalinha/42-Libft) -> A C library - <span style="color:green">125/100</span>
-- [get_next_line](https://github.com/SopadeGalinha/42-get_next_line) -> Reading content line by line from a file, stdin, or even a network connection. <span style="color:green">125/100</span>
-- [ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf - <span style="color:green">100/100</span>
-- [minitalk](https://github.com/SopadeGalinha/42-Minitalk) -> A small data exchange program using UNIX signals <span style="color:green">125/100</span>
-- [push_Swap](https://github.com/SopadeGalinha/42-push_Swap) -> Sorting data on a stack, with a limited set of instructions <span style="color:green">97/100</span>
+- [libft](https://github.com/SopadeGalinha/42-Libft) -> A C library - <font color="green">125/100</font>
+- [get_next_line](https://github.com/SopadeGalinha/42-get_next_line) -> Reading content line by line from a file, stdin, or even a network connection. <font color="green">125/100</font>
+- [ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf - <font color="green">100/100</font>
+- [minitalk](https://github.com/SopadeGalinha/42-Minitalk) -> A small data exchange program using UNIX signals <font color="green">125/100</font>
+- [push_Swap](https://github.com/SopadeGalinha/42-push_Swap) -> Sorting data on a stack, with a limited set of instructions <font color="green">97/100</font>
 - [FdF](https://github.com/SopadeGalinha/42-FdF) -> A wireframe viewer for 3D maps - in Progress..
 
 </details>
