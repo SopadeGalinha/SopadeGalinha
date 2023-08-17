@@ -24,7 +24,7 @@
   
 ### Tech Toolbox
 
-🛠️ I work with T-SQL, Jira, Confluence, Git, Uipath, VB, and C Programming, building effective solutions. <br>
+🛠️ I work with T-SQL, Jira, Confluence, Git, Uipath, VB, and C Programming, Unix.. building effective solutions. <br>
 💡 I'm also a skilled in C#, Unity3D, and Figma.
 
 ## Projects
