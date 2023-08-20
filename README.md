@@ -12,7 +12,7 @@
 ## About Me
 
 - 🕹️ Game Developer.
-- 💻 Full-stack software engineer at [Nós](https://www.linkedin.com/company/nos-sgps/).
+- 💻 Full-stack software engineer at [NOS](https://www.linkedin.com/company/nos-sgps/).
 - 🌐 Proud _cadet_ of the [42Porto](https://www.42porto.com/) community.
 
 ### Things I Enjoy
