@@ -60,7 +60,7 @@
 - [minitalk](https://github.com/SopadeGalinha/42-Minitalk) -> A small data exchange program using UNIX signals
 - [push_Swap](https://github.com/SopadeGalinha/42-push_Swap) -> Sorting data on a stack, with a limited set of instructions
 - [FdF](https://github.com/SopadeGalinha/42-FdF) -> A wireframe viewer for 3D maps - in Progress..
-- [Philosophers](https://github.com/SopadeGalinha/42-Philosophers) -> The dinning problem - in Progress..
+- [Philosophers](https://github.com/SopadeGalinha/42-Philosophers) -> The dinning problem
 
 
 </details>
