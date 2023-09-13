@@ -56,12 +56,12 @@
 
 - [libft](https://github.com/SopadeGalinha/42-Libft) -> A C library
 - [get_next_line](https://github.com/SopadeGalinha/42-get_next_line) -> Reading content line by line from a file, stdin, or even a network connection
-- [ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf
+- [ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf function
 - [minitalk](https://github.com/SopadeGalinha/42-Minitalk) -> A small data exchange program using UNIX signals
 - [push_Swap](https://github.com/SopadeGalinha/42-push_Swap) -> Sorting data on a stack, with a limited set of instructions
 - [FdF](https://github.com/SopadeGalinha/42-FdF) -> A wireframe viewer for 3D maps
-- [Philosophers](https://github.com/SopadeGalinha/42-Philosophers) -> The dinning problem
-
+- [Philosophers](https://github.com/SopadeGalinha/42-Philosophers) -> The dining philosophers problem
+- [CPP Modules](https://github.com/SopadeGalinha/42-CPP-Modules) -> in progress..
 
 </details>
 
