@@ -59,7 +59,7 @@
 - [ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf
 - [minitalk](https://github.com/SopadeGalinha/42-Minitalk) -> A small data exchange program using UNIX signals
 - [push_Swap](https://github.com/SopadeGalinha/42-push_Swap) -> Sorting data on a stack, with a limited set of instructions
-- [FdF](https://github.com/SopadeGalinha/42-FdF) -> A wireframe viewer for 3D maps - in Progress..
+- [FdF](https://github.com/SopadeGalinha/42-FdF) -> A wireframe viewer for 3D maps
 - [Philosophers](https://github.com/SopadeGalinha/42-Philosophers) -> The dinning problem
 
 
