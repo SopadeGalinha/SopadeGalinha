@@ -54,15 +54,15 @@
   
 ### Projects
 
-- [Libft](https://github.com/SopadeGalinha/42-Libft) -> A C library
-- [Get_next_line](https://github.com/SopadeGalinha/42-get_next_line) -> Reading content line by line from a file, stdin, or even a network connection
-- [Ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf function
+- [CPP Modules](https://github.com/SopadeGalinha/42-CPP-Modules) -> in progress..
+- [Minishell](https://github.com/SopadeGalinha/42-Minishell) -> As beautiful as a Shell
 - [Minitalk](https://github.com/SopadeGalinha/42-Minitalk) -> A small data exchange program using UNIX signals
 - [Push_Swap](https://github.com/SopadeGalinha/42-push_Swap) -> Sorting data on a stack, with a limited set of instructions
 - [FdF](https://github.com/SopadeGalinha/42-FdF) -> A wireframe viewer for 3D maps
 - [Philosophers](https://github.com/SopadeGalinha/42-Philosophers) -> The dining philosophers problem
-- [Minishell](https://github.com/SopadeGalinha/42-Minishell) -> As beautiful as a Shell -> in progress..
-- [CPP Modules](https://github.com/SopadeGalinha/42-CPP-Modules) -> in progress..
+- [Ft_printf](https://github.com/SopadeGalinha/42-ft_printf) -> Recoding the printf function
+- [Get_next_line](https://github.com/SopadeGalinha/42-get_next_line) -> Reading content line by line from a file, stdin, or even a network connection
+- [Libft](https://github.com/SopadeGalinha/42-Libft) -> A C library
 </details>
 
 <div align="center">
