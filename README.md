@@ -12,7 +12,7 @@
 ## About Me
 
 - 🕹️ Game Developer.
-- 💻 Full-stack software engineer at [NOS](https://www.linkedin.com/company/nos-sgps/).
+- 💻 Full-stack software engineer at [Natixis](https://www.linkedin.com/company/natixis-in-portugal/posts/?feedView=all).
 - 🌐 Proud _cadet_ of the [42Porto](https://www.42porto.com/) community.
 
 ### Things I Enjoy
@@ -23,9 +23,17 @@
 - 🥊Kickboxing & Muay Thai
   
 ### Tech Toolbox
+#### 💻 Programming Languages:
+C, C++, C#, Python, Shell, SQL
 
-🛠️ I work with T-SQL, Jira, Confluence, Git, Uipath, VB, and C Programming building effective solutions. <br>
-💡 I'm also a skilled in C#, Unix, Unity3D, and Figma.
+#### 🌐 Web Development:
+JavaScript, CSS, HTML
+
+#### 🐳 DevOps & Containerization:
+Docker, Kubernetes
+
+#### 🛠️ Additional Tools:
+Git, Uipath, Unity3D
 
 ## Projects
 <details>
